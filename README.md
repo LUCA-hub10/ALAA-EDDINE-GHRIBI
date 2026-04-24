@@ -8,7 +8,7 @@
 
 ### 🌐 Live Portfolio (BMM GROUP USA)
 I currently manage and maintain the technical infrastructure for:
-* **Corporate & Pharma:** [BMM Group](https://bmmgroup-usa.com/) | [Delta-Phar](https://delta-phar.com/) | [L’envol Pharma](https://lenvol-pharma.com/)
+* **Corporate & Pharma:** [BMM Group](https://bmmgroup-usa.com/) | [Delta-Phar](https://delta-phar.com/) | [L’envol Pharma](https://lenvol-pharma.com/) | [lpm distribution](https://lpm--distribution.com/)
 * **E-Commerce:** [Follixyl](https://follixyl.com/) | [VeryDerm](https://veryderm.com/) | [Fungus-All](https://fungus-all.com/)
 * **Special Projects:** Technical rollout and migration for [Magiclear](https://magiclear.bmmgroup-usa.com/).
 
