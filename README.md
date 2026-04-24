@@ -25,4 +25,4 @@ I currently manage and maintain the technical infrastructure for:
 **Infrastructure & Design**
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white) ![Adobe PS](https://img.shields.io/badge/Adobe%20PS-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe AI](https://img.shields.io/badge/Adobe%20AI-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
-📫 **Connect with me:** [LinkedIn]https://www.linkedin.com/in/alaa-eddine-ghribi-765853197?utm_source=share_via&utm_content=profile&utm_medium=member_android | ghribialaaeddine@gmail.com
+📫 **Connect with me:** [LinkedIn] (https://www.linkedin.com/in/alaa-eddine-ghribi-765853197?utm_source=share_via&utm_content=profile&utm_medium=member_android | ghribialaaeddine@gmail.com)
